@@ -1,0 +1,3 @@
+include ALPR/*.png
+include ALPR/*.jpg
+include ALPR/*.ttf
